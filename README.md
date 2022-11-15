@@ -1,16 +1,11 @@
-# flutter_application_1
+# Itimoney
+An income/expense dashboard that visualizes all our debit and credit transactions from our account into a chart so it is easier for us to set a realistic budget for an upcoming trip(s).
 
-A new Flutter project.
 
-## Getting Started
+## More info
 
-This project is a starting point for a Flutter application.
+- [More info in the Devpost site](https://devpost.com/software/itimoney)
+- [See the prototype](https://www.figma.com/proto/fe1PUHRcUMvUH7y145G0at/TechTogether-2022?node-id=32%3A23&scaling=scale-down&page-id=4%3A3&starting-point-node-id=32%3A23)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Future iteration
+Finish the mobile app based off the prototype
